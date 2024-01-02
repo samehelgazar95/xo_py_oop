@@ -1,1 +1,1 @@
-![Alt text here](/draw.png)
+![Alt text here](/draw.drawio.png)
